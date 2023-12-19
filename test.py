@@ -4,4 +4,9 @@ def adddition(num1, num2):
 
 def subtraction(num1, num2):
     ## Dennis: Legg til logik for trekke fra
-    return 0
+    return num1 - num2
+
+
+print(adddition(1,5))
+
+print(subtraction(10,8))
