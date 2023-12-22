@@ -1,0 +1,147 @@
+[
+  {
+    "code":"AF",
+    "name":"Air France",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"AY",
+    "name":"Finnair",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"A3",
+    "name":"Aegean Airlines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"BA",
+    "name":"British Airways",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"BT",
+    "name":"Air Baltic",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"DK",
+    "name":"Sunclass Airlines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"DX",
+    "name":"DAT",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"DY",
+    "name":"Norwegian",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"D8",
+    "name":"Norwegian",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"EK",
+    "name":"Emirates",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"ET",
+    "name":"Ethiopian Airlines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"FI",
+    "name":"Icelandair",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"FR",
+    "name":"Ryanair",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"IB",
+    "name":"Iberia",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"JU",
+    "name":"Air Serbia",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"KL",
+    "name":"KLM",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"LH",
+    "name":"Lufthansa",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"LO",
+    "name":"LOT- Polish Airlines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"LX",
+    "name":"Swiss International Air Lines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"N0",
+    "name":"Norse Atlantic Airways",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"PC",
+    "name":"Pegasus Airlines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"QR",
+    "name":"Qatar Airways",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"RK",
+    "name":"Ryanair UK",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"SK",
+    "name":"SAS",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"SN",
+    "name":"Brussels Airlines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"TK",
+    "name":"Turkish Airlines",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"TP",
+    "name":"TAP Portugal",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"WF",
+    "name":"Wider\u00f8e",
+    "airline_sentiment":"positive"
+  },
+  {
+    "code":"W6",
+    "name":"Wizzair",
+    "airline_sentiment":"medium"
+  }
+]
